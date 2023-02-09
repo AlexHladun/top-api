@@ -2,8 +2,8 @@
   "name": "top-api",
   "version": "0.0.1",
   "description": "",
-  "author": "Marcus Light",
-  "private": true,
+  "author": "Alex Hladun",
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "prebuild": "rimraf dist",
